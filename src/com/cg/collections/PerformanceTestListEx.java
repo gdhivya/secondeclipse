@@ -4,7 +4,9 @@ import java.util.ArrayList;
 import java.util.LinkedList;
 
 public class PerformanceTestListEx {
+	
 public static void main(String[] args) {
+	System.out.println("hi");
 	ArrayList<String> list1= new ArrayList<String>();
 	
 	long t1=System.currentTimeMillis(); //returns the current time in millisecs
